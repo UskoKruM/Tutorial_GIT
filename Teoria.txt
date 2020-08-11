@@ -44,3 +44,4 @@ Comandos prácticos:
 - git commit: Letra 'i' para comenzar a editar, ESC y :wq
 - git log: Para ver toda la bitácora de cambios y quien los realizó.
 - git checkout -- index.html: Para revertir los cambios de un archivo.
+- git diff index.html: Para ver los cambios realizados en 1 archivo.
