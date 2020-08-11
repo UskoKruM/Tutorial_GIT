@@ -39,3 +39,8 @@ Comandos prácticos:
 - git status: Para ver el estado de los archivos.
 - git add index.html: Para agregar (comenzar a seguir) un archivo.
 - git add -A: Para agregar TODOS los archivos en ese punto.
+- git config --global user.email "uskokrum2010@gmail.com": Usuario que realiza cambios.
+- git config --global user.name "UskoKruM2010": Nombre de usuario que realiza cambios.
+- git commit: Letra 'i' para comenzar a editar, ESC y :wq
+- git log: Para ver toda la bitácora de cambios y quien los realizó.
+- git checkout -- index.html: Para revertir los cambios de un archivo.
