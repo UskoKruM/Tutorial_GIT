@@ -1,0 +1,41 @@
+Git es un sistema de control de versiones (VCS), el más popular de ellos. Permite controlar las distintas 
+versiones de un programa. Sus características:
+
+- Control de versiones distribuido.
+- Coordinada el trabajo entre múltiples desarrolladores.
+- Controla quien realizó cambios y cuándo.
+- Revertir cambios en cualquier momento.
+- Repositorios (computadora que almacena tu código) locales y remotos.
+
+Conceptos de Git:
+
+- Realiza un seguimiento del historial del código.
+- Toma "capturas de pantalla" de los archivos.
+- Tú decides cuando tomar las "capturas de pantalla" realizando un commit.
+- Puedes visualizar cualquier "captura de pantalla" en cualquier momento.
+- Puedes preparar archivos antes de hacer commit.
+
+Estados de Git:
+
+- Working Directory: Donde estás trabajando con todos tus archivos.
+- Staging Area: Donde vas a preparar los archivos listos para guardarse.
+- Repository: Repositorio, donde se almacenan los archivos.
+
+Comandos básicos:
+
+- git init: Inicializa un repositorio con Git.
+- git add <file>: Para pasar del Working Directory al Staging Area.
+- git status: Para visualizar el estado de los archivos.
+- git commit: Para pasar del Staging Area al Repository (tomar una 'captura de pantalla').
+- git push: Para subirlo a un repositorio remoto.
+- git pull: Para bajar los cambios realizados por otros desarrolladores.
+- git clone: Realizar una copia local desde el servidor (repositorio) central.
+
+Para descargar: https://git-scm.com/
+
+Comandos prácticos:
+
+- git init: Para inicializar un proyecto de Git.
+- git status: Para ver el estado de los archivos.
+- git add index.html: Para agregar (comenzar a seguir) un archivo.
+- git add -A: Para agregar TODOS los archivos en ese punto.
