@@ -46,3 +46,4 @@ Comandos prácticos:
 - git checkout -- index.html: Para revertir los cambios de un archivo.
 - git diff index.html: Para ver los cambios realizados en 1 archivo.
 - Crear un archivo .gitignore para ignorar determinadas carpetas o archivos.
+- git commit -m "Sexto commit realmente, el anterior era el quinto.": Para commitear con el comentario.
