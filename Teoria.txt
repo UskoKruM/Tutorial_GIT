@@ -52,3 +52,10 @@ Comandos prácticos:
 - git checkout login: Para cambiar a otra rama, en este caso la rama 'login'.
 - * Cada carpeta la toma solo si hay 1 archivo dentro.
 - git add .: Agrega todos los archivos.
+- git remote add origin https://github.com/UskoKruM/Tutorial_GIT.git: Agrega el repositorio a una 
+ubicación remota (servidor GitHub).
+- git push -u origin master: Sube los cambios directamente al repositorio ubicado en la dirección 
+remota (servidor GitHub).
+- git clone https://github.com/UskoKruM/Tutorial_GIT.git: Copia todo el código a una ubicación local.
+
+* Archivo README.md: Para explicar nuestro proyecto (en formato mark down).
