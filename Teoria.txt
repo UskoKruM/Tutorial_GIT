@@ -45,5 +45,10 @@ Comandos prácticos:
 - git log: Para ver toda la bitácora de cambios y quien los realizó.
 - git checkout -- index.html: Para revertir los cambios de un archivo.
 - git diff index.html: Para ver los cambios realizados en 1 archivo.
-- Crear un archivo .gitignore para ignorar determinadas carpetas o archivos.
+- * Crear un archivo .gitignore para ignorar determinadas carpetas o archivos.
 - git commit -m "Sexto commit realmente, el anterior era el quinto.": Para commitear con el comentario.
+- git branch: Para ver las ramas que tengo ahora.
+- git branch login: Creo una nueva rama llamada 'login'.
+- git checkout login: Para cambiar a otra rama, en este caso la rama 'login'.
+- * Cada carpeta la toma solo si hay 1 archivo dentro.
+- git add .: Agrega todos los archivos.
