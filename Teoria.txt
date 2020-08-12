@@ -57,5 +57,6 @@ ubicación remota (servidor GitHub).
 - git push -u origin master: Sube los cambios directamente al repositorio ubicado en la dirección 
 remota (servidor GitHub).
 - git clone https://github.com/UskoKruM/Tutorial_GIT.git: Copia todo el código a una ubicación local.
+- git pull origin master: Para descargar los cambios desde el repositorio principal.
 
 * Archivo README.md: Para explicar nuestro proyecto (en formato mark down).
